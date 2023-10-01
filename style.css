@@ -1,0 +1,349 @@
+.background
+ {
+    background-image: url(bg.png);
+    background-size: cover;
+ }
+ 
+ 
+ #header{
+    background: white;
+    height: 70;
+}
+.logo2{
+    
+top: 29px;
+    
+position: absolute;
+    
+height: 28px;
+    
+left: 84px;
+}
+
+
+.logo 
+{
+    padding-left: 110px;
+    padding-top: 10;
+    color: black;
+    font-size: 40;
+    font-family: monospace;
+    }
+
+.text
+{
+    position: absolute;
+    top: 22;
+    left: 400;
+    padding: 10 20;
+    border-radius: 30px;
+    border-color: black;
+}
+
+.menu{
+    position: absolute;
+    top: 15px;
+    right: 300;
+    font-size: larger;
+}
+.menu-li{
+
+display: none;
+
+padding-right: 30;
+}
+.menu-name
+{
+
+text-decoration: none;
+
+color: black;
+}
+.btn{
+    
+letter-spacing: 3;
+    
+position: absolute;
+    
+top: 23px;
+    
+right: 64px;
+    
+padding: 10 40;
+    
+border-radius: 40px;
+    
+background: white;
+    
+color: black;
+    
+border-color: black;
+    
+font-family: monospace;
+    
+font-weight: 900;
+    
+font-size: larger;
+}
+.btn:hover
+{
+    color:white;
+    background:black;
+}
+.menu-name:hover
+{
+color:black
+
+}
+.background
+ {
+    background-image: url(bg.png);
+    background-size: cover;
+ }
+ 
+ 
+ #header{
+    background: white;
+    height: 70;
+}
+.logo2{
+    
+top: 29px;
+    
+position: absolute;
+    
+height: 28px;
+    
+left: 84px;
+}
+
+
+.logo 
+{
+    padding-left: 110px;
+    padding-top: 10;
+    color: black;
+    font-size: 40;
+    font-family: monospace;
+    }
+
+.text
+{
+    position: absolute;
+    top: 22;
+    left: 400;
+    padding: 10 20;
+    border-radius: 30px;
+    border-color: black;
+}
+
+.menu{
+    position: absolute;
+    top: 15px;
+    right: 300;
+    font-size: larger;
+}
+.menu-li{
+
+display: inline-block;
+
+padding-right: 30;
+}
+.menu-name
+{
+
+text-decoration: none;
+
+color: black;
+}
+.btn{
+    
+letter-spacing: 3;
+    
+position: absolute;
+    
+top: 23px;
+    
+right: 64px;
+    
+padding: 10 40;
+    
+border-radius: 40px;
+    
+background: white;
+    
+color: black;
+    
+border-color: black;
+    
+font-family: monospace;
+    
+font-weight: 900;
+    
+font-size: larger;
+}
+.btn:hover
+{
+    color:white;
+    background:black;
+}
+.menu-name:hover
+{
+color:black
+
+}
+.h1{
+
+color: white;
+
+font-family: monospace;
+
+font-weight: 100;
+
+font-size: 30;
+
+position: absolute;
+
+right: 50;
+
+top: 250;
+}
+.h2{
+    color: white;
+
+font-family: monospace;
+
+font-weight: 100;
+
+font-size: 30;
+
+position: absolute;
+right: 300;
+    top: 300;
+}
+
+.h3{
+    color: white;
+    position: absolute;
+    top: 320;
+    right: 200;
+    font-weight: 100;
+}
+.h4
+{
+
+top: 380;
+
+right: 268px;
+
+color: white;
+
+font-family: cursive;
+
+font-weight: 100;
+
+position: absolute;
+
+font-size: 16px;
+}
+
+.h5{
+
+    top: 409px;
+    right: 333px;
+    
+    color: white;
+    
+    font-family: cursive;
+    
+    font-weight: 100;
+    
+    position: absolute;
+    
+    font-size: 16px;
+
+}
+
+.p
+{
+    color: white;
+    background: linear-gradient(45deg, black, transparent);
+    height: 70;
+    margin-top: 800;
+    font-size: larger;
+    font-family: math;
+    font-weight: 100;
+    padding-top: 22;
+    padding-left: 100;
+}
+.p2
+{
+    color: white;
+    font-family: cursive;
+    position: absolute;
+    right: 750;
+    top: 873px;
+    font-size: x-large;
+}
+.bton
+{
+    position: absolute;
+    display: inline-block;
+    top: 894px;
+    right: 300;
+}
+.bton-1{
+
+position: absolute;
+
+display: inline-block;
+
+top: 894px;
+
+right: 150;
+}
+.bton-2{
+    padding: 10 20;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.bton-2:hover
+{
+  background: black;
+  color:white;
+}
+
+.drop-menus{
+
+    position: absolute;
+    
+    top: 21px;
+    
+    background: white;
+    
+    left: 187px;
+    
+    width: 105px;
+
+    display: none;
+
+    }
+    .menu-item{
+    
+    padding: 8px;
+    
+    list-style: none;
+    }
+    .menu-dec{
+    
+    text-decoration: none;
+    
+    list-style: none;
+    }
+    
+    .super:hover .drop-menus{
+    display: block;
+
+    }
+    
+    
